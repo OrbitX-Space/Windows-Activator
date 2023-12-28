@@ -7,7 +7,7 @@ This software is a product of unwavering honesty and integrity, meticulously cra
 1. Download the ***Activate Windows.bat*** file from [here.](https://drive.google.com/file/d/17IzZRJLpUHMhVhkKRApKU1g677SaoYjb/view?usp=drivesdk)
 2. Run it.
 
-→ If the batch file gets **deleted** by itself due to Windows Defender(Realtime protection: **On**), then you can download the ***.zip*** file from [here.](https://drive.google.com/file/d/17WV4zpRGXnYFQf5VsfdssI-I4geORMex/view?usp=drivesdk)
+→ If the batch file gets **deleted** by itself due to Windows Defender(Realtime protection: **On**) or if the browser doesn't let you download, then you can download the ***.zip*** file from [here.](https://drive.google.com/file/d/17WV4zpRGXnYFQf5VsfdssI-I4geORMex/view?usp=drivesdk)
 
 ## Ui:
 ![Screenshot 1](./images/ui.png)
