@@ -5,7 +5,7 @@ This software is a product of unwavering honesty and integrity, meticulously cra
 ## Installation:
 Download the *Activate Windows.bat* file & then launch it.
 
-**Ui:**
+## Ui:
 
 ![Screenshot 1](./images/ui.png)
 
