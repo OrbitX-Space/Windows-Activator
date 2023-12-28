@@ -4,7 +4,8 @@ This software is a product of unwavering honesty and integrity, meticulously cra
 
 ## Installation:
 
-Download the ***Activate Windows.bat*** file from [here.](https://drive.google.com/file/d/17IzZRJLpUHMhVhkKRApKU1g677SaoYjb/view?usp=drivesdk)
+1. Download the ***Activate Windows.bat*** file from [here.](https://drive.google.com/file/d/17IzZRJLpUHMhVhkKRApKU1g677SaoYjb/view?usp=drivesdk)
+2. Run it.
 
 ## Ui:
 ![Screenshot 1](./images/ui.png)
